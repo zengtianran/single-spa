@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <div class="cls-text">我是子应用测试</div>
+    <div class="cls-text">child application</div>
+    <HelloWorld></HelloWorld>
   </div>
 </template>
 
